@@ -1,0 +1,756 @@
+{
+    "description": "A list of all victims of femicide committed in France in 2019",
+    "source": "https://feminicides.org/2019/",
+    "femicidesFrance2019" : [
+        {
+            "firstname": "Pascale",
+            "dateOfDeath": "2019-01-06",
+            "ageOfDeath": 56
+        },
+        {
+            "firstname": "Taïna",
+            "dateOfDeath": "2019-01-06",
+            "ageOfDeath": 20
+        },
+        {
+            "firstname": "Monica",
+            "dateOfDeath": "2019-01-06",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "Céline",
+            "dateOfDeath": "2019-01-13",
+            "ageOfDeath": 48
+        },
+        {
+            "firstname": "Félicie",
+            "dateOfDeath": "2019-01-13",
+            "ageOfDeath": 90
+        },
+        {
+            "firstname": "Nadine",
+            "dateOfDeath": "2019-01-16",
+            "ageOfDeath": 49
+        },
+        {
+            "firstname": "Séverine",
+            "dateOfDeath": "2019-01-16",
+            "ageOfDeath": 46
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-01-16",
+            "ageOfDeath": 54
+        },
+        {
+            "firstname": "Guo",
+            "dateOfDeath": "2019-01-20",
+            "ageOfDeath": 49
+        },
+        {
+            "firstname": "Michèle",
+            "dateOfDeath": "2019-01-21",
+            "ageOfDeath": 72
+        },
+        {
+            "firstname": "Béatrice",
+            "dateOfDeath": "2019-01-22",
+            "ageOfDeath": 51
+        },
+        {
+            "firstname": "Cherline",
+            "dateOfDeath": "2019-01-22",
+            "ageOfDeath": 40
+        },
+        {
+            "firstname": "Isabelle",
+            "dateOfDeath": "2019-01-24",
+            "ageOfDeath": 48
+        },
+        {
+            "firstname": "Gulçin",
+            "dateOfDeath": "2019-01-27",
+            "ageOfDeath": 34
+        },
+        {
+            "firstname": "Patricia",
+            "dateOfDeath": "2019-01-27",
+            "ageOfDeath": 51
+        },
+        {
+            "firstname": "Sylvie",
+            "dateOfDeath": "2019-01-30",
+            "ageOfDeath": 56
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-02-01",
+            "ageOfDeath": 81
+        },
+        {
+            "firstname": "Céline",
+            "dateOfDeath": "2019-02-03",
+            "ageOfDeath": 38
+        },
+        {
+            "firstname": "Caroline",
+            "dateOfDeath": "2019-02-05",
+            "ageOfDeath": 32
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-02-06",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "Maureen",
+            "dateOfDeath": "2019-02-12",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-02-13",
+            "ageOfDeath": 75
+        },
+        {
+            "firstname": "Josette",
+            "dateOfDeath": "2019-02-14",
+            "ageOfDeath": 66
+        },
+        {
+            "firstname": "Gaëlle",
+            "dateOfDeath": "2019-02-14",
+            "ageOfDeath": 22
+        },
+        {
+            "firstname": "Ginette",
+            "dateOfDeath": "2019-02-15",
+            "ageOfDeath": 89
+        },
+        {
+            "firstname": "Nicole",
+            "dateOfDeath": "2019-02-18",
+            "ageOfDeath": 85
+        },
+        {
+            "firstname": "Nelly",
+            "dateOfDeath": "2019-02-18",
+            "ageOfDeath": 46
+        },
+        {
+            "firstname": "Hilal",
+            "dateOfDeath": "2019-02-20",
+            "ageOfDeath": 30
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-02-20",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "Julie",
+            "dateOfDeath": "2019-03-03",
+            "ageOfDeath": 35
+        },
+        {
+            "firstname": "Chantal",
+            "dateOfDeath": "2019-03-14",
+            "ageOfDeath": 60
+        },
+        {
+            "firstname": "Dounia",
+            "dateOfDeath": "2019-03-14",
+            "ageOfDeath": 46
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-03-20",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "Georgette",
+            "dateOfDeath": "2019-03-21",
+            "ageOfDeath": 84
+        },
+        {
+            "firstname": "Dolorés",
+            "dateOfDeath": "2019-03-22",
+            "ageOfDeath": 40
+        },
+        {
+            "firstname": "Babeth",
+            "dateOfDeath": "2019-03-23",
+            "ageOfDeath": 43
+        },
+        {
+            "firstname": "Fabienne",
+            "dateOfDeath": "2019-03-24",
+            "ageOfDeath": 51
+        },
+        {
+            "firstname": "Aurélie",
+            "dateOfDeath": "2019-03-25",
+            "ageOfDeath": 50
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-03-29",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "Stéphanie",
+            "dateOfDeath": "2019-03-31",
+            "ageOfDeath": 39
+        },
+        {
+            "firstname": "Caroline",
+            "dateOfDeath": "2019-03-31",
+            "ageOfDeath": 55
+        },
+        {
+            "firstname": "Chantal",
+            "dateOfDeath": "2019-04-04",
+            "ageOfDeath": 50
+        },
+        {
+            "firstname": "Céline",
+            "dateOfDeath": "2019-04-05",
+            "ageOfDeath": 32
+        },
+        {
+            "firstname": "Dalila",
+            "dateOfDeath": "2019-04-07",
+            "ageOfDeath": 50
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-04-08",
+            "ageOfDeath": 85
+        },
+        {
+            "firstname": "Nathalie",
+            "dateOfDeath": "2019-04-17",
+            "ageOfDeath": 53
+        },
+        {
+            "firstname": "Sandra",
+            "dateOfDeath": "2019-04-18",
+            "ageOfDeath": 25
+        },
+        {
+            "firstname": "Valérie",
+            "dateOfDeath": "2019-04-21",
+            "ageOfDeath": 51
+        },
+        {
+            "firstname": "Marie-Alice",
+            "dateOfDeath": "2019-04-22",
+            "ageOfDeath": 53
+        },
+        {
+            "firstname": "Danielle",
+            "dateOfDeath": "2019-04-25",
+            "ageOfDeath": 74
+        },
+        {
+            "firstname": "Chloé",
+            "dateOfDeath": "2019-04-27",
+            "ageOfDeath": 33
+        },
+        {
+            "firstname": "Yaroslava",
+            "dateOfDeath": "2019-04-29",
+            "ageOfDeath": 44
+        },
+        {
+            "firstname": "Sandra",
+            "dateOfDeath": "2019-05-02",
+            "ageOfDeath": 31
+        },
+        {
+            "firstname": "Martine",
+            "dateOfDeath": "2019-05-05",
+            "ageOfDeath": 64
+        },
+        {
+            "firstname": "Martine",
+            "dateOfDeath": "2019-05-09",
+            "ageOfDeath": 60
+        },
+        {
+            "firstname": "Laura",
+            "dateOfDeath": "2019-05-12",
+            "ageOfDeath": 22
+        },
+        {
+            "firstname": "Pierrette",
+            "dateOfDeath": "2019-05-15",
+            "ageOfDeath": 57
+        },
+        {
+            "firstname": "Moumna",
+            "dateOfDeath": "2019-05-17",
+            "ageOfDeath": 56
+        },
+        {
+            "firstname": "Maryline",
+            "dateOfDeath": "2019-05-22",
+            "ageOfDeath": 49
+        },
+        {
+            "firstname": "Gwénaelle",
+            "dateOfDeath": "2019-05-23",
+            "ageOfDeath": 37
+        },
+        {
+            "firstname": "Mambu",
+            "dateOfDeath": "2019-05-26",
+            "ageOfDeath": 64
+        },
+        {
+            "firstname": "Nathalie",
+            "dateOfDeath": "2019-05-27",
+            "ageOfDeath": 47
+        },
+        {
+            "firstname": "Mariette",
+            "dateOfDeath": "2019-05-27",
+            "ageOfDeath": 65
+        },
+        {
+            "firstname": "Alina",
+            "dateOfDeath": "2019-06-03",
+            "ageOfDeath": 31
+        },
+        {
+            "firstname": "Priscilla",
+            "dateOfDeath": "2019-06-06",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "Maïté",
+            "dateOfDeath": "2019-06-08",
+            "ageOfDeath": 36
+        },
+        {
+            "firstname": "Audrey",
+            "dateOfDeath": "2019-06-16",
+            "ageOfDeath": 37
+        },
+        {
+            "firstname": "Mayie",
+            "dateOfDeath": "2019-06-17",
+            "ageOfDeath": 81
+        },
+        {
+            "firstname": "Justine",
+            "dateOfDeath": "2019-06-20",
+            "ageOfDeath": 20
+        },
+        {
+            "firstname": "Michèle",
+            "dateOfDeath": "2019-06-23",
+            "ageOfDeath": 60
+        },
+        {
+            "firstname": "Chantal",
+            "dateOfDeath": "2019-06-25",
+            "ageOfDeath": 72
+        },
+        {
+            "firstname": "Maguy",
+            "dateOfDeath": "2019-06-26",
+            "ageOfDeath": 52
+        },
+        {
+            "firstname": "Coralie",
+            "dateOfDeath": "2019-06-26",
+            "ageOfDeath": 33
+        },
+        {
+            "firstname": "Ermira",
+            "dateOfDeath": "2019-06-27",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "Catherine",
+            "dateOfDeath": "2019-06-27",
+            "ageOfDeath": 47
+        },
+        {
+            "firstname": "Leïla",
+            "dateOfDeath": "2019-07-03",
+            "ageOfDeath": 20
+        },
+        {
+            "firstname": "Isabelle",
+            "dateOfDeath": "2019-07-04",
+            "ageOfDeath": 37
+        },
+        {
+            "firstname": "Christelle",
+            "dateOfDeath": "2019-07-05",
+            "ageOfDeath": 32
+        },
+        {
+            "firstname": "Laura",
+            "dateOfDeath": "2019-07-06",
+            "ageOfDeath": 30
+        },
+        {
+            "firstname": "Céline",
+            "dateOfDeath": "2019-07-12",
+            "ageOfDeath": 41
+        },
+        {
+            "firstname": "Samantha",
+            "dateOfDeath": "2019-07-17",
+            "ageOfDeath": 43
+        },
+        {
+            "firstname": "Yvonne",
+            "dateOfDeath": "2019-07-18",
+            "ageOfDeath": 76
+        },
+        {
+            "firstname": "Daisy",
+            "dateOfDeath": "2019-07-23",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "Yvonne",
+            "dateOfDeath": "2019-07-23",
+            "ageOfDeath": 86
+        },
+        {
+            "firstname": "Bernadette",
+            "dateOfDeath": "2019-07-25",
+            "ageOfDeath": 45
+        },
+        {
+            "firstname": "Stéphanie",
+            "dateOfDeath": "2019-07-29",
+            "ageOfDeath": 35
+        },
+        {
+            "firstname": "Mélissa",
+            "dateOfDeath": "2019-07-30",
+            "ageOfDeath": 26
+        },
+        {
+            "firstname": "Lucette",
+            "dateOfDeath": "2019-08-02",
+            "ageOfDeath": 80
+        },
+        {
+            "firstname": "Chloé",
+            "dateOfDeath": "2019-08-04",
+            "ageOfDeath": 29
+        },
+        {
+            "firstname": "Corinne",
+            "dateOfDeath": "2019-08-09",
+            "ageOfDeath": 18
+        },
+        {
+            "firstname": "Ophélie",
+            "dateOfDeath": "2019-08-11",
+            "ageOfDeath": 28
+        },
+        {
+            "firstname": "Jackie",
+            "dateOfDeath": "2019-08-12",
+            "ageOfDeath": 71
+        },
+        {
+            "firstname": "Antoinette",
+            "dateOfDeath": "2019-08-12",
+            "ageOfDeath": 76
+        },
+        {
+            "firstname": "Martine",
+            "dateOfDeath": "2019-08-13",
+            "ageOfDeath": 60
+        },
+        {
+            "firstname": "Irina",
+            "dateOfDeath": "2019-08-14",
+            "ageOfDeath": 22
+        },
+        {
+            "firstname": "Denise",
+            "dateOfDeath": "2019-08-17",
+            "ageOfDeath": 58
+        },
+        {
+            "firstname": "Marianne",
+            "dateOfDeath": "2019-08-18",
+            "ageOfDeath": 37
+        },
+        {
+            "firstname": "Euphémie",
+            "dateOfDeath": "2019-08-20",
+            "ageOfDeath": 49
+        },
+        {
+            "firstname": "Eliane",
+            "dateOfDeath": "2019-08-25",
+            "ageOfDeath": 26
+        },
+        {
+            "firstname": "Clothilde",
+            "dateOfDeath": "2019-08-26",
+            "ageOfDeath": 35
+        },
+        {
+            "firstname": "Sarah",
+            "dateOfDeath": "2019-08-28",
+            "ageOfDeath": 39
+        },
+        {
+            "firstname": "Salomé",
+            "dateOfDeath": "2019-08-31",
+            "ageOfDeath": 21
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-09-02",
+            "ageOfDeath": 92
+        },
+        {
+            "firstname": "Mauricette",
+            "dateOfDeath": "2019-09-08",
+            "ageOfDeath": 76
+        },
+        {
+            "firstname": "Monique",
+            "dateOfDeath": "2019-09-09",
+            "ageOfDeath": 72
+        },
+        {
+            "firstname": "Johanna",
+            "dateOfDeath": "2019-09-16",
+            "ageOfDeath": 27
+        },
+        {
+            "firstname": "Chafia",
+            "dateOfDeath": "2019-09-16",
+            "ageOfDeath": 53
+        },
+        {
+            "firstname": "Audrey",
+            "dateOfDeath": "2019-09-16",
+            "ageOfDeath": 27
+        },
+        {
+            "firstname": "Janice",
+            "dateOfDeath": "2019-09-20",
+            "ageOfDeath": 30
+        },
+        {
+            "firstname": "Gracieuse",
+            "dateOfDeath": "2019-09-20",
+            "ageOfDeath": 39
+        },
+        {
+            "firstname": "Annick",
+            "dateOfDeath": "2019-09-20",
+            "ageOfDeath": 75
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-09-26",
+            "ageOfDeath": 86
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-09-26",
+            "ageOfDeath": 69
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-09-29",
+            "ageOfDeath": 53
+        },
+        {
+            "firstname": "Berthe",
+            "dateOfDeath": "2019-10-01",
+            "ageOfDeath": 38
+        },
+        {
+            "firstname": "Fadela",
+            "dateOfDeath": "2019-10-01",
+            "ageOfDeath": 21
+        },
+        {
+            "firstname": "Delphine",
+            "dateOfDeath": "2019-10-06",
+            "ageOfDeath": 33
+        },
+        {
+            "firstname": "Marie-Claire",
+            "dateOfDeath": "2019-10-06",
+            "ageOfDeath": 72
+        },
+        {
+            "firstname": "Marie",
+            "dateOfDeath": "2019-10-06",
+            "ageOfDeath": 88
+        },
+        {
+            "firstname": "Hang Rol",
+            "dateOfDeath": "2019-10-07",
+            "ageOfDeath": 45
+        },
+        {
+            "firstname": "Priya",
+            "dateOfDeath": "2019-10-08",
+            "ageOfDeath": 30
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-10-14",
+            "ageOfDeath": 73
+        },
+        {
+            "firstname": "Marie-Claude",
+            "dateOfDeath": "2019-10-19",
+            "ageOfDeath": 70
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-10-19",
+            "ageOfDeath": 31
+        },
+        {
+            "firstname": "Safia",
+            "dateOfDeath": "2019-10-21",
+            "ageOfDeath": 35
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-10-26",
+            "ageOfDeath": 50
+        },
+        {
+            "firstname": "Shaïna",
+            "dateOfDeath": "2019-10-27",
+            "ageOfDeath": 15
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-10-31",
+            "ageOfDeath": 83
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-02",
+            "ageOfDeath": 53
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-02",
+            "ageOfDeath": 87
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-08",
+            "ageOfDeath": 34
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-10",
+            "ageOfDeath": 40
+        },
+        {
+            "firstname": "Karine",
+            "dateOfDeath": "2019-11-11",
+            "ageOfDeath": 48
+        },
+        {
+            "firstname": "Aminata",
+            "dateOfDeath": "2019-11-12",
+            "ageOfDeath": 31
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-14",
+            "ageOfDeath": 18
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-11-14",
+            "ageOfDeath": 85
+        },
+        {
+            "firstname": "Aurélia",
+            "dateOfDeath": "2019-11-15",
+            "ageOfDeath": 22
+        },
+        {
+            "firstname": "Florence",
+            "dateOfDeath": "2019-11-16",
+            "ageOfDeath": 55
+        },
+        {
+            "firstname": "Pascale",
+            "dateOfDeath": "2019-11-25",
+            "ageOfDeath": 55
+        },
+        {
+            "firstname": "Laetitia",
+            "dateOfDeath": "2019-12-04",
+            "ageOfDeath": 34
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-07",
+            "ageOfDeath": 80
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-08",
+            "ageOfDeath": 55
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-09",
+            "ageOfDeath": 32
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-13",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-14",
+            "ageOfDeath": null
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-17",
+            "ageOfDeath": 54
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-17",
+            "ageOfDeath": 92
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-21",
+            "ageOfDeath": 65
+        },
+        {
+            "firstname": "Rebecca",
+            "dateOfDeath": "2019-12-30",
+            "ageOfDeath": 44
+        },
+        {
+            "firstname": "unknown",
+            "dateOfDeath": "2019-12-30",
+            "ageOfDeath": 28
+        }
+    ]
+}
